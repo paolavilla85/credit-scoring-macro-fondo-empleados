@@ -1,0 +1,11 @@
+# Los datos de los asociados son confidenciales y no se publican
+datos/
+*.xlsx
+*.xls
+*.csv
+*.rds
+*.RData
+*.Rhistory
+.Rproj.user/
+# Salidas generadas por los scripts
+resultados/
